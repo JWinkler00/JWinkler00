@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JWinkler00
-- 👀 I’m interested in Volleyball, going to the gym and watching series and anime
+- 👀 I’m interested in Volleyball, going to the gym as well as watching series and anime
 - 🌱 I’m currently learning all kinds of technologies and programming languages, but mainly Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jonaswinkler4@gmail.com
